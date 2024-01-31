@@ -1,4 +1,19 @@
-### Hi there 👋
+# Hello, I'm Yash Nasit 👋
+
+## About Me
+- Sophomore at charusat university  👨‍🎓<br>
+- ML Enthusiastic 🌟
+
+## Skills
+- Basics of ROS2 🌐🔧<br>
+- ML (Beginner) 🚀💡
+
+## Contact Me
+- Email: nasityash15@gmail.com
+
+
+
+
 
 <!--
 **yash8003/yash8003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
