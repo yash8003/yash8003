@@ -1,7 +1,7 @@
 # Hello, I'm Yash Nasit 👋
 
 ## About Me
-- Sophomore at charusat university  👨‍🎓<br>
+- Studying at charusat university  👨‍🎓<br>
 - ML Enthusiastic 🌟
 
 ## Skills
