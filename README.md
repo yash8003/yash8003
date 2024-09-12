@@ -2,11 +2,11 @@
 
 ## About Me
 - Studying at charusat university  👨‍🎓<br>
-- ML Enthusiastic 🌟
+- ROS Enthusiastic 🌟
 
 ## Skills
-- Basics of ROS2 🌐🔧<br>
-- ML (Beginner) 🚀💡
+- Robot operating system 2(ROS2)  🌐🔧<br>
+- ML 🚀💡
 
 ## Contact Me
 - Email: nasityash15@gmail.com
